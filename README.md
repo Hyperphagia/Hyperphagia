@@ -1,3 +1,10 @@
-<h1 align="center">Hello I'm Demi!</h1>
-<h2 align="center">I'm a beginner programmer learning for the first time</h2>
-<h3 align="center">I really just suck at this though...</h23>
+<html lang="en-US">
+  <head>
+    <meta charset="utf8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Demi</title>
+  </head>
+  <body>
+    <h1>I'm a beginner software engineer</h1>
+  </body>
+</html>
